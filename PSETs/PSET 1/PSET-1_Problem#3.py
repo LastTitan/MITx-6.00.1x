@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  5 09:17:42 2018
 
-@author: TheLastTian
+@author: TheLastTitan
 """
 
 s = 'lbpbcjmosufus'
